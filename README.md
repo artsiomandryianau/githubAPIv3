@@ -1,6 +1,6 @@
 Github repositories checker
 ===========================
-Github API v3 using application. Cheking all the repositories of users github or generate a custom exception.
+Recrutment process task. Github API v3 using application. Cheking all the repositories of users github or generate a custom exception.
 
 GET:~/repositories/{userLogin}
 ------------------------------
