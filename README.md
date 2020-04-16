@@ -13,6 +13,6 @@ Github API v3 using application. Spring boot app. Cheking all the repositories o
 
 Technologies
 ------------
--Java 8+
--Spring Boot
--REST
+- Java 8+
+- Spring Boot
+- REST
