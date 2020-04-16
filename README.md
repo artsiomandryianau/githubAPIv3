@@ -8,8 +8,8 @@ Parametr:
 * userLogin - github user login 
 
 Return:
- * if user exists - users repository list JSON
- * else custom exception 
+ * if (user exists) return users repository list JSON
+ * else return custom exception 
 
 
 Technologies
